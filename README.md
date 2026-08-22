@@ -1,12 +1,12 @@
 # Urban Expansion Analysis — Constantine, Algeria (2015–2020)
 
-**GIS change-detection project 
- # Final Map ![Urban Expansion in Constantine, Algeria (2015–2020)](final_map.png)
-measuring built-up area growth in Wilaya de Constantine, Algeria, between 2015 and 2020, using free open satellite-derived data.**
+GIS change-detection project measuring built-up area growth in Wilaya de Constantine, Algeria, between 2015 and 2020, using free open satellite-derived data.
 
+## Final Map
 
+![Urban Expansion in Constantine, Algeria (2015–2020)](final_map.png)
 
-
+---
 
 ## Overview
 
